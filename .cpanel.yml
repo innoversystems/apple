@@ -1,5 +1,5 @@
 ---
 deployment:
  tasks:
- - export DEPLOYPATH=/home/wecastweb/public_html/
+ - export DEPLOYPATH=/home/wecastweb/public_html/ck/
  - /bin/cp -R * $DEPLOYPATH
